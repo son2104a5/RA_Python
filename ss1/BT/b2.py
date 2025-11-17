@@ -1,0 +1,8 @@
+num1 = int(1)
+num2 = float(0.1)
+str = str("Hello")
+bool = bool(True)
+print(type(num1) + ": " + num1)
+print(type(num2) + ": " + num2)
+print(type(str) + ": " + str)
+print(type(bool) + ": " + bool)
