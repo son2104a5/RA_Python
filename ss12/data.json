@@ -1,0 +1,13 @@
+{
+    "students": [
+        {
+            "id": "SV001",
+            "name": "An",
+            "diem_toan": 8.0,
+            "diem_ly": 7.5,
+            "diem_hoa": 7,
+            "diem_tb": 7.5,
+            "xep_loai": "Kha"
+        }
+    ]
+}
